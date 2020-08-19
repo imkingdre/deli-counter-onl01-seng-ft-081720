@@ -8,6 +8,7 @@ def now_serving(katz_deli)
   else
     puts "Currently serving #{katz_deli}."
   end
+end
   
   def line(katz_deli)
     if katz_deli.length == 0
