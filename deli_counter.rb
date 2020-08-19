@@ -13,4 +13,4 @@ def now_serving(katz_deli)
     if katz_deli.length == 0
       puts "The line is currently empty."
     else
-      puts message = ""
+      puts message = "The line is currently: "
