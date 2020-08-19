@@ -15,4 +15,4 @@ def now_serving(katz_deli)
     else
       puts message = "The line is currently:"
       katz_deli.each_with_index do |value, index|
-        
+        message += 
