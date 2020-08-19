@@ -9,4 +9,5 @@ def now_serving(katz_deli)
     puts "Currently serving #{katz_deli}."
   end
   
-  def line
+  def line(katz_deli)
+    
