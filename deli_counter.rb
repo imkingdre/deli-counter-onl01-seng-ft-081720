@@ -19,3 +19,5 @@ def now_serving(katz_deli)
       end
       puts "#{message}"
     end
+  end
+  
